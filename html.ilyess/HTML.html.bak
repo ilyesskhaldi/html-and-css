@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>welcome in gomycode</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <nav>
+    <header>
+      <h1 style="text-align: center;">WELCOME IN GOMYCODE</h1>
+    </header>  
+      <div style="text-align: center;"><img src="file:///C:/Users/adel/Downloads/gomycode.png"
+
+          alt="" style="width: 98px; height: 52px;"></div>
+      <div style="text-align: left;"><br>
+      </div>
+    <footer>
+      <p><i>my name is ilyess khaldi <br>
+        </i></p>
+    </footer>
+    <footer>
+      <table style="width: 100%;" border="1">
+        <tbody>
+          <tr>
+            <td style="text-align: center;">classe:</td>
+            <td style="text-align: center;">lycee:</td>
+            <td style="text-align: center;">age:</td>
+          </tr>
+          <tr>
+            <td style="text-align: center;">3eme informatique</td>
+            <td style="text-align: center;">lycee brourmet</td>
+            <td style="text-align: center;">17</td>
+          </tr>
+        </tbody>
+      </table>
+    </footer>
+    <p><i><br>
+      </i></p>
+    </nav>
+  </body>
+</html>

@@ -1,0 +1,16 @@
+header{color:navy;
+       background:red;
+       font-family:roboto;}
+
+
+nav{color:brown;
+    background:purple;
+}
+
+
+footer{text-align:center;
+       font-family:roboto,sans-serif;
+       font-size:large;
+       color:green;
+       background:black
+}
